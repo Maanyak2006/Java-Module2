@@ -4,3 +4,4 @@ AndExample.java<img width="1366" height="532" alt="Screenshot (79)" src="https:/
 OrExample.java<img width="1365" height="540" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/f2b69a77-4a13-4cd7-8f68-ccd004e6667b" />
 XorExample.java<img width="1366" height="528" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/42ce8f61-7660-411a-84bb-e920e8183b97" />
 ComplementExample.java<img width="1366" height="530" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/667f5b04-03d1-4172-a7dd-4e6912d1e4d2" />
+LeftShiftExample.java<img width="1366" height="542" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/a276351a-4f67-46b5-a3e1-5ce6943cd555" />
