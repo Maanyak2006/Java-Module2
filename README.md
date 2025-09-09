@@ -8,3 +8,4 @@ LeftShiftExample.java<img width="1366" height="542" alt="Screenshot (87)" src="h
 RightShiftExample.java<img width="1366" height="542" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/5ef430d6-caad-4aa4-808a-bffc2f52a4c9" />
 UnsignedRightShiftExample.java<img width="1366" height="538" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/71542ce9-991d-44e6-97ec-395e78e64326" />
 EqualToExample.java<img width="1366" height="534" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/2be9682b-c19f-413b-8ccf-7c7c5b7c40f7" />
+NotEqualExample.java<img width="1366" height="540" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/cfa02e09-b6b2-493e-9dd4-bd1aa03eddcd" />
