@@ -9,3 +9,13 @@ RightShiftExample.java<img width="1366" height="542" alt="Screenshot (89)" src="
 UnsignedRightShiftExample.java<img width="1366" height="538" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/71542ce9-991d-44e6-97ec-395e78e64326" />
 EqualToExample.java<img width="1366" height="534" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/2be9682b-c19f-413b-8ccf-7c7c5b7c40f7" />
 NotEqualExample.java<img width="1366" height="540" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/cfa02e09-b6b2-493e-9dd4-bd1aa03eddcd" />
+GreaterThanExamole.java<img width="1366" height="497" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/bac83c1b-0396-4618-98ed-b94f62eef711" />
+LessThanExample.java<img width="1366" height="544" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/f5d9f7bb-6f96-403c-b750-cefd25243b25" />
+LogicalAndExample.java<img width="1366" height="540" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/87bb5b38-adce-4de7-ac56-10e29daa808d" />
+GreaterThanOrEqualExample.java<img width="1366" height="538" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/7a97e289-3135-447e-8976-b9ef80818536" />
+LessThanOrEqualExample.java<img width="1366" height="542" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/addbab75-c104-42e3-ada3-a24ef5700bdb" />
+LogicalNotExample.java<img width="1365" height="544" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/ad5c58e0-1604-40f9-a58f-175be45b7c01" />
+LogicalOrExample.java<img width="1366" height="540" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/240159be-9920-4444-838a-7f28cb76b436" />
+AndAssignExample.java<img width="1366" height="546" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/e8304504-8ad9-4827-b986-6634faf685a3" />
+MultiplyAssignExample.java<img width="1366" height="540" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/474a4103-e15b-4d6b-9673-d59fee072fe2" />
+ModAssignExample.java<img width="1366" height="538" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/06fa3d39-ae88-4f6f-a3ec-5cea281316f9" />
