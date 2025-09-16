@@ -19,3 +19,21 @@ LogicalOrExample.java<img width="1366" height="540" alt="Screenshot (111)" src="
 AndAssignExample.java<img width="1366" height="546" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/e8304504-8ad9-4827-b986-6634faf685a3" />
 MultiplyAssignExample.java<img width="1366" height="540" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/474a4103-e15b-4d6b-9673-d59fee072fe2" />
 ModAssignExample.java<img width="1366" height="538" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/06fa3d39-ae88-4f6f-a3ec-5cea281316f9" />
+TernaryExample.java<img width="1365" height="584" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/645751a4-dfb1-456f-a0b9-b6f088ee8edd" />
+GradeExample.java<img width="1366" height="544" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/2e26b2bb-a020-4540-b8c6-2b4cbb1cbd6c" />
+PositiveNegativeZero.java<img width="1366" height="544" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/866e980f-17f5-4214-b270-f58b68b75e8a" />
+OperatorPrecedence.java<img width="1366" height="540" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/017e50fc-552d-4d4c-a4ef-8b6a2f67f713" />
+PrefixExample.java<img width="1366" height="538" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/5bc2c5c4-822f-4b2e-ac28-5f8c4583d9b6" />
+BitwiseNotExample.java<img width="1366" height="544" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/c8ae00b7-c903-4621-aadf-a99390197fcb" />
+ParenthesesOverride.java<img width="1366" height="544" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/08c13508-cde5-4622-a481-905ae850d02b" />
+MixedOperators.java<img width="1366" height="532" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/eb07c337-f3b8-44ac-bbdd-483c4ac7caa5" />
+IfExample.java<img width="1366" height="538" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/df70a4cf-9ecf-44bf-add3-527809aa4685" />
+If_Else_Example.java<img width="1366" height="548" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/762421ab-b6bf-42e0-9060-d5c6fd36c8fa" />
+NestedIfExample.java<img width="1366" height="544" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/b29f5dac-260d-40aa-b06a-921fd7a12cc9" />
+
+
+
+
+
+
+
