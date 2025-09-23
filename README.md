@@ -30,6 +30,14 @@ MixedOperators.java<img width="1366" height="532" alt="Screenshot (123)" src="ht
 IfExample.java<img width="1366" height="538" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/df70a4cf-9ecf-44bf-add3-527809aa4685" />
 If_Else_Example.java<img width="1366" height="548" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/762421ab-b6bf-42e0-9060-d5c6fd36c8fa" />
 NestedIfExample.java<img width="1366" height="544" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/b29f5dac-260d-40aa-b06a-921fd7a12cc9" />
+SwitchExample.java<img width="1365" height="550" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/a7298825-052b-41c4-b26f-755f0be3cd88" />
+ForLoopExample.java<img width="1366" height="554" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/785e9bc5-68a4-406b-863d-b992d581bfea" />
+WhileLoopExample.java<img width="1366" height="552" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/e7f0022e-7c47-49ce-9821-3afb8510a1f1" />
+DoWhileExample.java<img width="1366" height="544" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/9cb6c06a-0e14-48c6-937b-7e9058eced63" />
+ForEachExample.java<img width="1366" height="556" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/cedf322b-d928-4850-a027-27d373dff75f" />
+BreakExample.java<img width="1365" height="549" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/40528706-87d9-49a8-a938-bb2618788a62" />
+ContinueExaample.java<img width="1366" height="544" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/7eb40007-ee75-479f-b5ce-cd9bbd040c9c" />
+ReturnExample.java<img width="1366" height="544" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/520dd421-86ae-4379-a41a-b2d38d1d0499" />
 
 
 
